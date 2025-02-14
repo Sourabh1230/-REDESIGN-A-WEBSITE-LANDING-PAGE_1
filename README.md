@@ -13,3 +13,4 @@ A comprehensive redesign of the Byteuprise website using Creatie and AI tools, f
 
 # -OUTPUT OF TASK 1
 
+
