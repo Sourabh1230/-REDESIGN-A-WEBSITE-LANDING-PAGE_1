@@ -13,4 +13,4 @@ A comprehensive redesign of the Byteuprise website using Creatie and AI tools, f
 
 # -OUTPUT OF TASK 1
 
-
+[Updated ByteUprise redesign by Sourabh.pdf](https://github.com/user-attachments/files/18797973/Updated.ByteUprise.redesign.by.Sourabh.pdf)
